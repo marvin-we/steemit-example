@@ -21,7 +21,7 @@
 				<artifactId>sonar-maven-plugin</artifactId>
 				<version>3.1.1</version>
 			</plugin>
-		</plugin>
+		</plugins>
 	</build>
 	<properties>
 		<sonar.host.url>http://sonarqube:9000</sonar.host.url>
